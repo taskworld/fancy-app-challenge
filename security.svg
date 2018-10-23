@@ -34,9 +34,9 @@
 		</g>
 		<g id="shape11-5" transform="translate(7.08661,-234.233)">
 			<title>Sheet.11</title>
-			<desc>Language</desc>
+			<desc>General</desc>
 			<path d="M0 255.87 L70.87 255.87 L70.87 241.69 L0 241.69 L0 255.87 Z" class="st3"/>
-			<text x="4" y="251.18" class="st4">Language</text>		</g>
+			<text x="4" y="251.18" class="st4">General</text>		</g>
 		<g id="shape12-8" transform="translate(7.08661,-212.973)">
 			<title>Sheet.12</title>
 			<desc>Security</desc>
@@ -60,7 +60,7 @@
 			<title>Sheet.7</title>
 			<desc>Old password</desc>
 			<rect x="0" y="241.695" width="63.7795" height="14.1732" class="st9"/>
-			<text x="4" y="251.18" class="st4">Old password</text>		</g>
+			<text x="0" y="251.18" class="st4">Old password</text>		</g>
 		<g id="shape8-22" transform="translate(148.819,-120.847)">
 			<title>Sheet.8</title>
 			<desc>Save changes</desc>
@@ -80,7 +80,7 @@
 			<title>Sheet.16</title>
 			<desc>New password</desc>
 			<rect x="0" y="241.695" width="63.7795" height="14.1732" class="st9"/>
-			<text x="4" y="251.18" class="st4">New password</text>		</g>
+			<text x="0" y="251.18" class="st4">New password</text>		</g>
 		<g id="shape18-34" transform="translate(127.559,-7.46162)">
 			<title>Sheet.18</title>
 			<rect x="0" y="163.742" width="170.079" height="92.126" class="st7"/>

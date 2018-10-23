@@ -1,21 +1,18 @@
 ### Specifications
 
-User preference form and simple backend.
+Fancy app is a web-based application that allows users to create a new account, log in, change the settings, change the password, delete their accounts, and log out.
 
-- create new account
-- log in
-- change language (EN, FR, DE, JP, CN, KR, TH)
-- change password
-- delete account
-- log out
+E-mails, passwords and user's settings are persistently stored in the database.
 
 ![Log in](log-in.svg)
 
 ![Create a new account](new-account.svg)
 
-![Language](language.svg)
+The language choices are English, French, German, Japanese, Chinese, Korean, and Thai.
 
-![Security](security.svg)
+![General settings](general.svg)
+
+![Security settings](security.svg)
 
 ### Instructions
 

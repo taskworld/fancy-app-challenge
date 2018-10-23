@@ -45,7 +45,7 @@
 				<title>Sheet.7</title>
 				<desc>E-mail</desc>
 				<rect x="0" y="241.695" width="56.6929" height="14.1732" class="st3"/>
-				<text x="4" y="251.18" class="st6">E-mail</text>			</g>
+				<text x="0" y="251.18" class="st6">E-mail</text>			</g>
 			<g id="shape8-15" transform="translate(21.2598,-63.7795)">
 				<title>Sheet.8</title>
 				<desc>••••••••</desc>
@@ -55,7 +55,7 @@
 				<title>Sheet.9</title>
 				<desc>Password</desc>
 				<rect x="0" y="241.695" width="56.6929" height="14.1732" class="st3"/>
-				<text x="4" y="251.18" class="st6">Password</text>			</g>
+				<text x="0" y="251.18" class="st6">Password</text>			</g>
 			<g id="shape17-21" transform="translate(21.2598,-14.1732)">
 				<title>Sheet.17</title>
 				<desc>Create a new account</desc>
