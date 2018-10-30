@@ -49,7 +49,7 @@ You will be judged by the following criteria.
 - Over-engineering and under-engineering are avoided.
 - Automation testing covers the main functionality of the under-testing components.
 
-**Taskworld expects you to put great effort into your work with the highest attention to detail.** Our mission is to build high quality code to satisfy our customers. Therefore, please work on this assignment as if you are building a production-grade application, and make sure to test the app thoroughly, verifying that it works in both successful and error cases, as well as in cases of bad network conditions.
+**Taskworld expects you to put great effort into your work with the highest attention to detail.** Our mission is to build high quality code to delight our customers. Therefore, please work on this assignment as if you are building a production-grade application, and make sure to test the app thoroughly, verifying that it works in both successful and error cases, as well as in cases of bad network conditions.
 
 Taskworld reserves the right, in its sole discretion, to disqualify any candidate that does not comply with any of the above, even before the work is submitted.
 
