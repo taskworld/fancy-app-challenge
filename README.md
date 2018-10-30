@@ -39,6 +39,7 @@ You will be judged by the following criteria.
 - Functionality is correct with respect to the specifications.
 - Good security principles are followed.
 - Good software engineering principles are followed, for example, [SOLID principles](https://en.wikipedia.org/wiki/SOLID).
+- The backend code follows Joyent’s [Node.js production practices](https://www.joyent.com/node-js/production), especially when it comes to [error handling](https://www.joyent.com/node-js/production/design/errors).
 - Identifiers are named meaningfully and consistently.
 - High coupling code blocks are adjacent to each other.
 - Errors are handled and exposed to users beautifully.
