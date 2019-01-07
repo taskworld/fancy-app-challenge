@@ -37,8 +37,9 @@ The language choices are English, French, German, Japanese, Chinese, Korean, and
 
 You will be judged by the following criteria.
 - Functionality is correct with respect to the specifications.
-- Good security principles are followed.
+- Good security principles are followed, for example, [OWASP Top 10 2017](https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf).
 - Good software engineering principles are followed, for example, [SOLID principles](https://en.wikipedia.org/wiki/SOLID).
+- [Node.js production practices](https://www.joyent.com/node-js/production) are followed, especially [the error handling](https://www.joyent.com/node-js/production/design/errors).
 - Identifiers are named meaningfully and consistently.
 - High coupling code blocks are adjacent to each other.
 - Errors are handled and exposed to users beautifully.
