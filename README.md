@@ -25,7 +25,7 @@ The language choices are English, French, German, Japanese, Chinese, Korean, and
   - Styled components, Emotion, styled-jsx, LESS, SCSS, or Stylus
   - MongoDB
 - **You must not** use the following third-party libraries:
-  - Any public web UI frameworks, for example, [Bootstrap](http://getbootstrap.com/), [Semantic UI](http://semantic-ui.com/), [Material UI](https://material-ui.com/), or [Ant Design](https://ant.design/) -- you may borrow the design, but you have to come up with your own style sheets. However, you will not be judged by the appearance of your web.
+  - Any public web UI frameworks, for example, [Bootstrap](http://getbootstrap.com/), [Semantic UI](http://semantic-ui.com/), [Material UI](https://material-ui.com/), [Ant Design](https://ant.design/), or [Tailwind CSS](https://tailwindcss.com/) -- you may borrow the design, but you have to come up with your own style sheets. However, you will not be judged by the appearance of your web.
   - jQuery
 - You may use any other third-party libraries that are not in the exception list above.
 - You must be able to explain the reasons behind your code changes along with its trade-off in a verbal interview or a written document.
